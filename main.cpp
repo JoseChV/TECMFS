@@ -5,8 +5,10 @@ using namespace std;
 
 int main() {
     ControllerNode* cn = new ControllerNode();
-    cn->saveToDiskNodes("TheLight");
-    cn->readFromDiskNodes("TheLight");
+    char* name = "CocaineKid";
+    //cn->saveToDiskNodes(name);
+    cn->readFromDiskNodes(name);
+
 
     return 0;
 }

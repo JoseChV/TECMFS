@@ -22,6 +22,11 @@ public:
     void saveToDiskNodes(char* name);
 
     void readFromDiskNodes(char* name);
+
+    void reconstructBin(char* name, int disk);
+
+    const char* setPath(char* initialPath, char* name, char* ext);
+
 };
 
 
