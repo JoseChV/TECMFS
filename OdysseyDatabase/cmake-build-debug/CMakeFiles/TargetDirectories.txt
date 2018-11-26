@@ -1,0 +1,3 @@
+/cygdrive/c/Users/Ba/CLionProjects/OdysseyServer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Ba/CLionProjects/OdysseyServer/cmake-build-debug/CMakeFiles/OdysseyServer.dir
+/cygdrive/c/Users/Ba/CLionProjects/OdysseyServer/cmake-build-debug/CMakeFiles/edit_cache.dir
